@@ -1,3 +1,4 @@
+var forever = require("forever");
 var util = require('util');
 var express = require("express");
 var app = express();
